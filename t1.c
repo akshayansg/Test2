@@ -7,7 +7,13 @@ int main()
   sum=a+b;
   print;
 }
-  sub();
+  sub()
+{
+	int a=10,b=20;
+	diff=a-b;
+	printf(diff);
+}
+
 mul();
 div();
 }
