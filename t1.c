@@ -1,7 +1,11 @@
 #include<stdio.h>
 int main()
 {
-  add();
+  add()
+{
+  int a,b;
+  sum=a+b;
+}
   sub();
 mul();
 div();
