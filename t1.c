@@ -5,6 +5,7 @@ int main()
 {
   int a,b;
   sum=a+b;
+  print;
 }
   sub();
 mul();
